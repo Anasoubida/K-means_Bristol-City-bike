@@ -10,9 +10,9 @@ L'objectif principal de ce projet est de regrouper l'emplacement des stations v�
 
 * Le dossier Data contient la base de données de Brisbane-City-Bike (Bristol-city-bike.json) ;
 * Le dossier Exported comporte les résultats du clustering dans un tableau excel ;
-* le fichier Properties.conf est contient les raccourcis de nos fichiers utilisés ;
-* Le Script contient le code utilisé ;
-* Le Readme résume nos résultats ;
+* le fichier Properties.conf contient les raccourcis de nos fichiers utilisés ;
+* Le code python ;
+* Le Readme qui résume nos résultats ;
 
 # Description de la base de données
 
