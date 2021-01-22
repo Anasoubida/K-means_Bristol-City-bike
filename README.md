@@ -31,3 +31,9 @@ La base de données ci-dessus composé de 5 variables :
 # Résultat du K-means
 Pour regrouper nos données de façon géographique, nous décidons de garder uniquement les variables longitude et latitude comme variables d'entrées pour la réalisation du K-means. 
 L'algorithme du k-means a permis d'avoir 3 cluster, premier groupe à l'est, le second groupe au centre et le troisième groupe à l'ouest 
+
+|Cluster   |       moy_latitude|     moy_longitude|
+|----------|-------------------|------------------|
+|EST       |-27.460240636363633|153.04186302272726|
+| CENTRE   | -27.47255990624999|   153.02594553125|
+|  Ouest   |-27.481218536585374|153.00572882926832|
