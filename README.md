@@ -37,3 +37,6 @@ L'algorithme du k-means a permis d'avoir 3 cluster, premier groupe à l'est, le 
 |EST       |-27.460240636363633|153.04186302272726|
 |CENTRE    | -27.47255990624999|   153.02594553125|
 |Ouest     |-27.481218536585374|153.00572882926832|
+
+Voici la map qui illustre nos résultats de clustering :
+![MAP](https://user-images.githubusercontent.com/71135204/105554940-a5efa680-5d08-11eb-9b4b-5d3185051aee.PNG)
