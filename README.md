@@ -1,5 +1,9 @@
 ## K-means_Bristol-City-bike
 
+![8e](https://user-images.githubusercontent.com/71134465/105554899-92dcd680-5d08-11eb-826b-dd68448c05d9.jpg)
+
+# Objectif de l'étude 
+
 L'objectif principal de ce projet est de regrouper l'emplacement des stations vélos à l'aide de l'algorithme de KMeans. 
 
 # Description des fichiers
